@@ -1,2 +1,3 @@
 # myrepo
-Testing my settlings
+Testing my settings
+From Rstudio.......
